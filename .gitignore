@@ -2,17 +2,13 @@
 .idea/
 *.iml
 
-# Compiled Java files
+# Java compiled files
 out/
 *.class
 
 # VS Code
 .vscode/
 
-# Screenshots / personal files
-ScreenShots/
-screenshots/
-
-# OS files
+# Operating system files
 .DS_Store
 Thumbs.db
